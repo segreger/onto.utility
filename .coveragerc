@@ -1,0 +1,6 @@
+[report]
+include =
+    src/onto/*
+omit =
+    */test*
+    */upgrades/*
